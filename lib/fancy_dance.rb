@@ -1,4 +1,4 @@
-module FancyDance 
+module FancyDance :: MetaDancing
   module InstanceMethods
     def twirl
       "I'm twirling!"
