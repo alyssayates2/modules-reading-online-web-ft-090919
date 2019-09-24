@@ -1,4 +1,4 @@
-module FancyDance
+module FancyDance < MetaDancing
   module InstanceMethods
     def twirl
       "I'm twirling!"
@@ -16,4 +16,4 @@ module FancyDance
       "Thank you, thank you. It was a pleasure to dance for you all."
     end
   end
-end 
+end
